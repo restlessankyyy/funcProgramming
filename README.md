@@ -1,4 +1,4 @@
 # funcProgramming
 
 
-This is all new world!
+This is whole new world!
